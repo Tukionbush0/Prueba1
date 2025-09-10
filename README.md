@@ -14,3 +14,8 @@ integrantes: Tomás López, Samuel Pérez
 
 ---
 
+## Tipo de estrategia
+En este proyecto de github la estrategia de git sera de TRUNC BASED DEVELOPMENT ya que este al ser a pequeña escala y de baja complejidad no necesita mucha organizacion dentro del github.
+
+---
+
